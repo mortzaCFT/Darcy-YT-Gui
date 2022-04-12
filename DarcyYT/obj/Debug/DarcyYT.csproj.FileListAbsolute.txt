@@ -1,0 +1,11 @@
+G:\_Linox_\Coding\DarcyYT\interface Gui\DarcyYT\DarcyYT\obj\Debug\DarcyYT.csproj.AssemblyReference.cache
+G:\_Linox_\Coding\DarcyYT\interface Gui\DarcyYT\DarcyYT\obj\Debug\DarcyYT.csproj.SuggestedBindingRedirects.cache
+G:\_Linox_\Coding\DarcyYT\interface Gui\DarcyYT\DarcyYT\obj\Debug\DarcyYT.mainForm.resources
+G:\_Linox_\Coding\DarcyYT\interface Gui\DarcyYT\DarcyYT\obj\Debug\DarcyYT.Properties.Resources.resources
+G:\_Linox_\Coding\DarcyYT\interface Gui\DarcyYT\DarcyYT\obj\Debug\DarcyYT.csproj.GenerateResource.cache
+G:\_Linox_\Coding\DarcyYT\interface Gui\DarcyYT\DarcyYT\obj\Debug\DarcyYT.csproj.CoreCompileInputs.cache
+G:\_Linox_\Coding\DarcyYT\interface Gui\DarcyYT\DarcyYT\bin\Debug\DarcyYT.exe.config
+G:\_Linox_\Coding\DarcyYT\interface Gui\DarcyYT\DarcyYT\bin\Debug\DarcyYT.exe
+G:\_Linox_\Coding\DarcyYT\interface Gui\DarcyYT\DarcyYT\bin\Debug\DarcyYT.pdb
+G:\_Linox_\Coding\DarcyYT\interface Gui\DarcyYT\DarcyYT\obj\Debug\DarcyYT.exe
+G:\_Linox_\Coding\DarcyYT\interface Gui\DarcyYT\DarcyYT\obj\Debug\DarcyYT.pdb
